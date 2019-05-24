@@ -7,4 +7,4 @@
 - [模型评估](#模型评估)
 
 # 特征工程
-- [图像数据不足时的处理方法]()
+- [图像数据不足时的处理方法](https://github.com/ludandandan/The-Quest-for-Machine-Learning/blob/master/Chapter01_Feature/07.md)
